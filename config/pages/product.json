@@ -1,0 +1,34 @@
+{
+  "header": {
+    "sticky": "true",
+    "height": "normal",
+    "show_logo": "true",
+    "nav_align": "left",
+    "show_wishlist": "true",
+    "show_cart": "true"
+  },
+  "product_details": {
+    "layout": "image_left",
+    "show_thumbnails": "true",
+    "show_description": "true",
+    "show_quantity": "true",
+    "show_add_to_cart": "true"
+  },
+  "featured_products": {
+    "title": "منتجات مشابهة",
+    "subtitle": "قد يعجبك أيضاً",
+    "layout_style": "carousel",
+    "items_per_row": "4",
+    "bg_color": "#ffffff",
+    "padding_top": "40px",
+    "padding_bottom": "80px",
+    "category_scope": { "mode": "all", "categoryIds": [] },
+    "show_category_tabs": "false"
+  },
+  "footer": {
+    "footer_menu_title": "عن المتجر",
+    "show_social": "true",
+    "bg_color": "#f9f9f9",
+    "text_color": "#000000"
+  }
+}

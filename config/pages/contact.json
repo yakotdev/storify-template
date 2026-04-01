@@ -1,0 +1,17 @@
+{
+  "header": {
+    "sticky": "true",
+    "height": "normal",
+    "show_logo": "true",
+    "nav_align": "left",
+    "show_wishlist": "true",
+    "show_cart": "true"
+  },
+  "contact_page": {},
+  "footer": {
+    "footer_menu_title": "دعم العملاء",
+    "show_social": "true",
+    "bg_color": "#0f172a",
+    "text_color": "#ffffff"
+  }
+}
